@@ -4,4 +4,4 @@
 
 - A very simple Calculator made using HTML, CSS and JavaScript with Neumorphism/Soft UI.
 
-![Calculator ui](https://github.com/AJINKYACHAVAN5/RESPONSIVE-CALCULATOR-UI-DESIGN/blob/main/Preview2.png.png)
+![Calculator ui](https://github.com/AJINKYACHAVAN5/RESPONSIVE-CALCULATOR-UI-DESIGN/blob/main/Preview2.png.jpg)
