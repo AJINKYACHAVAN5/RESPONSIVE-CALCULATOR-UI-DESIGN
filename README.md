@@ -6,12 +6,12 @@
 
 ![Calculator ui](https://github.com/AJINKYACHAVAN5/RESPONSIVE-CALCULATOR-UI-DESIGN/blob/main/Preview1.png.png)
                                   
-                                   𝐍𝐞𝐮𝐦𝐨𝐫𝐩𝐡𝐢𝐬𝐦 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐨𝐫 𝐔𝐈 𝐃𝐞𝐬𝐢𝐠𝐧-𝟏
+                                        𝐍𝐞𝐮𝐦𝐨𝐫𝐩𝐡𝐢𝐬𝐦 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐨𝐫 𝐔𝐈 𝐃𝐞𝐬𝐢𝐠𝐧-𝟏
 
 ![Calculator ui](https://github.com/AJINKYACHAVAN5/RESPONSIVE-CALCULATOR-UI-DESIGN/blob/main/Preview2.png.jpg)
 
-                                   𝐍𝐞𝐮𝐦𝐨𝐫𝐩𝐡𝐢𝐬𝐦 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐨𝐫 𝐔𝐈 𝐃𝐞𝐬𝐢𝐠𝐧-𝟐
+                                        𝐍𝐞𝐮𝐦𝐨𝐫𝐩𝐡𝐢𝐬𝐦 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐨𝐫 𝐔𝐈 𝐃𝐞𝐬𝐢𝐠𝐧-𝟐
 
 ![Calculator ui](https://github.com/AJINKYACHAVAN5/RESPONSIVE-CALCULATOR-UI-DESIGN/blob/main/Preview.png.jpg)
 
-                                   𝐍𝐞𝐮𝐦𝐨𝐫𝐩𝐡𝐢𝐬𝐦 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐨𝐫 𝐔𝐈 𝐃𝐞𝐬𝐢𝐠𝐧-𝟑
+                                        𝐍𝐞𝐮𝐦𝐨𝐫𝐩𝐡𝐢𝐬𝐦 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐨𝐫 𝐔𝐈 𝐃𝐞𝐬𝐢𝐠𝐧-𝟑
